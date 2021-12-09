@@ -1,5 +1,5 @@
 {
-  "name": "Joo_O_miniApp",
+  "name": "Joo_O_MiniCooper",
   "version": "1.0.0",
   "description": "Create a car web page based on class builds using SASS, Vue, AJAX, databases, and Fetch.",
   "main": "index.js",
@@ -16,6 +16,6 @@
     "gulp-dart-sass": "^1.0.2",
     "gulp-imagemin": "^8.0.0",
     "gulp-sass": "^5.0.0",
-    "sass": "^1.43.4"
+    "sass": "^1.44.0"
   }
 }
