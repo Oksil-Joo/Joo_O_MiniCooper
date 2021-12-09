@@ -7,7 +7,7 @@ import TheLightboxComponent from "./components/TheLightboxComponent.js";
     const myVue = new Vue({
         created: function() {
             
-            getData(null, (data) => this.carProfData = data);
+            getData(null, (data) => this.carData = data);
         },
 
         data: {

@@ -1,7 +1,7 @@
 <?php 
     $db_dsn = array( 
         'host' => 'localhost', 
-        'dbname' => 'carProfData', 
+        'dbname' => 'carData', 
         'charset' => 'utf8'
     );
 
